@@ -7,4 +7,10 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="DotBox-FilyType">
+      <HintPath>DotBox-FilyType.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
